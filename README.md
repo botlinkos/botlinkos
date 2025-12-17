@@ -46,16 +46,6 @@ The **Machine Economy** is here. Autonomous agents—drones, robots, vehicles—
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=botlinkos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=7C3AED&title_color=7C3AED)
-
-</div>
-
----
-
 ## Repositories
 
 <div align="center">
