@@ -46,11 +46,23 @@ The **Machine Economy** is here. Autonomous agents—drones, robots, vehicles—
 
 ---
 
-## Repository
+## GitHub Stats
 
 <div align="center">
 
-[![BotLink OS Repo](https://github-readme-stats.vercel.app/api/pin/?username=botlinkos&repo=botlink-os&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/botlinkos/botlink-os)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=botlinkos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=7C3AED&title_color=7C3AED)
+
+</div>
+
+---
+
+## Repositories
+
+<div align="center">
+
+[![BotLink OS](https://github-readme-stats.vercel.app/api/pin/?username=botlinkos&repo=botlink-os&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/botlinkos/botlink-os)
+[![BotLink Deploy](https://github-readme-stats.vercel.app/api/pin/?username=botlinkos&repo=botlink-deploy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/botlinkos/botlink-deploy)
+[![BotLink Example](https://github-readme-stats.vercel.app/api/pin/?username=botlinkos&repo=botlink-example&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/botlinkos/botlink-example)
 
 </div>
 
